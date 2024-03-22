@@ -1,0 +1,32 @@
+body,p,h1{
+    text-align: center;
+}
+.my-soul-regular {
+    font-family: "My Soul", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+body{
+    font-family: "My Soul",cursive;
+    line-height: 1.6;
+    background-color: lightskyblue;
+    text-size-adjust: 40px;
+}
+nav{
+    background-color: gray;
+    color: rgb(255, 255, 255);
+    padding: 50px;
+} 
+nav ul{
+    list-style-type: 9;
+    text-align:center;
+}
+nav ul li{
+    display: inline;
+    margin: 10px;
+}
+nav ul li a{
+    color: aliceblue;
+    text-decoration: dashed;
+    font-size: 30px;
+}

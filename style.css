@@ -1,0 +1,70 @@
+body,h1,h2,p,ul,li{
+    margin: 0; 
+    padding:0
+}
+span{
+    color:white;
+    text-align: center;
+}
+.my-soul-regular {
+    font-family: "My Soul", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+body{
+    font-family: "My Soul",cursive;
+    line-height: 1.6;
+}
+header{
+    color:rgb(255, 255, 255);
+    background-color: rgb(66, 66, 66);
+    padding: 50 px;
+    text-align: center;
+}
+nav{
+    background-color: gray;
+    color: rgb(255, 255, 255);
+    padding: 50px;
+} 
+nav ul{
+    list-style-type: 9;
+    text-align:center;
+}
+nav ul li{
+    display: inline;
+    margin: 10px;
+}
+nav ul li a{
+    color: aliceblue;
+    text-decoration: dashed;
+    font-size: 30px;
+}
+h2{
+    text-decoration: solid;
+    font-size: 30px;
+}
+.video{
+    background-color: rgb(255, 255, 255);
+    padding-left: 26%;
+}
+p{
+    background-color: white;
+    color: rgb(0, 0, 0);
+}
+.logo{
+    font-size: 100px;
+ background-color: black;
+ color: black;
+}
+.papi{
+    margin-left: 700px;
+}
+.papa{
+    margin-left: 700px;
+}
+.pape{
+    margin-left: 700px;
+}
+.papo{
+    margin-top: -100px;
+}
